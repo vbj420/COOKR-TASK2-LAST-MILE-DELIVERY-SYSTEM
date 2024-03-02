@@ -1,0 +1,6 @@
+Customer Name,Customer Location X,Customer Location Y,Kitchen ID,Kitchen Location X,Kitchen Location Y,Food Name,Delivery Time,Distance from Kitchen
+C1,80.0,23.0,k5,54.0,50.0,Chciekn Fried Rice,10:00,37.48
+C2,60.0,23.0,k3,164.0,108.0,Kheer,10:10,134.32
+C3,80.0,43.0,k4,11.0,18.0,Gobi,10:20,73.39
+C4,100.0,100.0,k2,18.0,35.0,Poori,10:00,104.64
+VISHWA,60.0,23.0,k4,11.0,18.0,PANI PURI,10:05,49.25

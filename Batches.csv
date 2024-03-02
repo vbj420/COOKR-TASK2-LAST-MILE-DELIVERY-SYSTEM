@@ -1,0 +1,6 @@
+batchnum,custname,kitchenname,foodname,delivery time,rule
+1,C1,k5,Chciekn Fried Rice,10:00,1
+1,C2,k3,Kheer,10:10,5
+1,C4,k2,Poori,10:00,5
+1,VISHWA,k4,PANI PURI,10:05,5
+2,C3,k4,Gobi,10:20,1
